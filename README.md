@@ -19,6 +19,9 @@ Includes visualizations for product trends, color preferences, and category perf
 
 🧩 Methodology
 
+<img width="392" height="387" alt="Screenshot 2026-02-13 000838" src="https://github.com/user-attachments/assets/bb6e66b0-2de3-4982-8a3f-d7c15ac2d9c3" />
+
+
 Dataset:
 
 Fashion Product Images (Small) Dataset (Kaggle)
